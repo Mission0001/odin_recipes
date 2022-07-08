@@ -1,3 +1,3 @@
 # odin_recipes
 
-This project is about making a website that user can see different recipes from the philippine.
+This project is a website that list the different recipes from my country which is the Philippine.
